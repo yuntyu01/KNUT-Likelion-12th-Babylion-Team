@@ -20,7 +20,7 @@ README.md은 저장소를 소개하는 가이드 파일입니다.
 ---
     0. 최병호 - janissary127
     1. 김미현 - MystyS2
-    2. 
+    2. 홍길동 - KoreaHero
     3.  
     4.          
     5.  
