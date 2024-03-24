@@ -18,7 +18,7 @@ README.md은 저장소를 소개하는 가이드 파일입니다.
 최병호 - janissary 127
 
 ---
-    0. 최병호 - janissary 127
+    0. 최병호 - janissary127
     1.  
     2.  
     3.  
