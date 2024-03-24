@@ -15,7 +15,7 @@ README.md은 저장소를 소개하는 가이드 파일입니다.
 
 다음과 같은 형식으로 남겨주세요
 
-최병호 - janissary 127
+최병호 - janissary127
 
 ---
     0. 최병호 - janissary127
