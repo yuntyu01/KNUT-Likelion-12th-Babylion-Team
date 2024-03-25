@@ -24,7 +24,7 @@ README.md은 저장소를 소개하는 가이드 파일입니다.README.md은 �
     3.  오인화 - farmercodel오인화 - farmercodel오인화 - farmercodel오인화 - farmercodel오인화 - farmercodel오인화 - farmercodel오인화 - farmercodel오인화 - farmercodel
     4.  김상호 - Bamgarim김상호 - Bamgarim김상호 - Bamgarim김상호 - Bamgarim김상호 - Bamgarim김상호 - Bamgarim김상호 - Bamgarim김상호 - Bamgarim김상호 - Bamgarim
     5. 김성진 - somedding김성진 - somedding김성진 - somedding김성진 - somedding김성진 - somedding김성진 - somedding김성진 - somedding
-    6.  
+    6.  이영수 -lee0su이영수 -lee0su이영수 -lee0su이영수 -lee0su이영수 -lee0su이영수 -lee0su이영수 -lee0su이영수 -lee0su이영수 -lee0su이영수 -lee0su
     7.  
     8.  
     9.  
